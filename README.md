@@ -3,6 +3,7 @@
 This project is a simple web page that helps you track your water intake by allowing you to select and track the number of glasses of water you have consumed. The goal is to drink 2 liters of water per day.
 
 ![Drink Water Tracker](/assets/drink-water.gif)
+&nbsp;
 ![WaterImage](/assets/drink-water.png)
 
 ## Technologies Used
