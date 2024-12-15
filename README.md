@@ -51,4 +51,4 @@ The drink water tracker concept and code implementation were inspired by various
 
 This project is licensed under the [MIT License](LICENSE).
 
-Made from <a href="https://twitter.com/iamleviyn">Leviyn</a> with :heart:
+Made from <a href="https://twitter.com/uygurhikmet">Hikmet</a> with :heart:
